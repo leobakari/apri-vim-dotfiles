@@ -9,6 +9,7 @@ Before using this configuration, ensure your system meets the following requirem
 
 - **Compiler**: A compiler is needed for certain plugins and features.
 - **Ripgrep**: Recommended for fuzzy finder support.
+- - **Lazygit**: Recommended for git.
 
 ## Installation
 
@@ -16,13 +17,13 @@ Follow these steps to install the configuration:
 
 ### Linux
 
-git clone https://github.com/leobakari/apri-vim-dotfiles.git ~/.config/nvim/lua/user
-nvim
+`git clone https://github.com/leobakari/apri-vim-dotfiles.git ~/.config/nvim/lua/user
+nvim`
 
 Windows Linux
 
-git clone https://github.com/leobakari/apri-vim-dotfiles.git $env:LOCALAPPDATA/nvim/lua/user
-nvim
+`git clone https://github.com/leobakari/apri-vim-dotfiles.git $env:LOCALAPPDATA/nvim/lua/user
+nvim`
 
 ### Additional Functionalities
 
