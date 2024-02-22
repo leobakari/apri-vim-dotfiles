@@ -17,13 +17,13 @@ Follow these steps to install the configuration:
 
 ### Linux
 
-`git clone https://github.com/leobakari/apri-vim-dotfiles.git ~/.config/nvim/lua/user
-nvim`
+`git clone https://github.com/leobakari/apri-vim-dotfiles ~/.config/nvim`
+`nvim`
 
-Windows Linux
+Windows
 
-`git clone https://github.com/leobakari/apri-vim-dotfiles.git $env:LOCALAPPDATA/nvim/lua/user
-nvim`
+`git clone https://github.com/leobakari/apri-vim-dotfiles $env:LOCALAPPDATA/nvim`
+`nvim`
 
 ### Additional Functionalities
 
