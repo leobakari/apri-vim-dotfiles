@@ -9,8 +9,9 @@ Before using this configuration, ensure your system meets the following requirem
 
 - **Compiler**: A compiler is needed for certain plugins and features.
 - **Ripgrep**: Recommended for fuzzy finder support.
-- - **Lazygit**: Recommended for git.
-
+- **Lazygit**: Recommended for git.
+- **A graphical terminal/ Kitty** 
+- **A NerdFont Font**: Support for Icons and more 
 ## Installation
 
 Follow these steps to install the configuration:
